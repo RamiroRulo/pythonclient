@@ -15,7 +15,7 @@ setup(
     name='ibapi',
     version=get_version_string(),
     packages=['ibapi'],
-    url='https://interactivebrokers.github.io/tws-api',
+    url='https://github.com/RamiroRulo/pythonclient/',
     license='IB API Non-Commercial License or the IB API Commercial License',
     author='IBG LLC',
     author_email='dnastase@interactivebrokers.com',
